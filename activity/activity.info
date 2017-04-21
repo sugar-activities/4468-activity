@@ -1,0 +1,8 @@
+[Activity]
+name = Soma
+activity_version = 25
+host_version = 1
+bundle_id = mulawa.Soma
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
